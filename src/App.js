@@ -40,6 +40,7 @@ function App() {
     setNewItem('');
   }
 
+  
   return (
     <div className="App"> 
       <Header title="Lista de compras" />
